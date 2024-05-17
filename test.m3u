@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1, [1] Sky Sport Live
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd?&ck=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJBRGFBQU9yc3Z1cjloTUJiTzRKRHJ3IiwiayI6Imo0UVlXUkRoaXVES2lrVUFSaVdnQUEifV19
-#EXTINF:-1, [2] Sky Sport F1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd?&ck=ezAwMzY2NjQ5ZWIyZWI4MmVlMTcyZTFiZDMxMGU0MTM2OjI3ZTg1YzE3ZDk3NzIyMjg4ZmZhNTk3MDM4OWQ4YmFmfQ%3D%3D
 #EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Mediaset", [5] Canale 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="sport.sky.it" tvg-chno="201" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Sky", [201] Sky Sport Live
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd
+#EXTINF:-1 tvg-id="sport.sky.it" tvg-chno="207" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Sky", [207] Sky Sport F1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd
